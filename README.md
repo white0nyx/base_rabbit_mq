@@ -1,5 +1,5 @@
 
-# base_rabbit_mq
+# Base RabbitMQ
 
 Учебный проект для работы с RabbitMQ на Python с использованием библиотеки `pika`.
 
